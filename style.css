@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Comforter&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Doodle+Triangles&display=swap');
+
+.test {
+    font-family: 'Comforter', cursive;
+    font-size: 64px;
+}
+
+
+.test2 {
+    font-family: 'Rubik Doodle Triangles', system-ui;
+    font-size: 78px;
+}
+
+
+@font-face {
+    font-family: "Florida";
+    /* Florida\ Vibes\ by\ Turbologo */
+    src: local("Florida"), url("./fonts/florida/Florida.otf")
+}
+
+.test3 {
+    font-family: 'Comforter', cursive;
+    font-size: 21px;
+}
